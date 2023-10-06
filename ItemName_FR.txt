@@ -1,6 +1,6 @@
 ItemName_FR = {
 	ItemName_Spongie.Jacket_SheepWool = "Veste d'hiver",
-	ItemName_Spongie.Jacket_SheepWoolOPEN = "Veste d'hiver ouverte",
+	ItemName_Spongie.Jacket_SheepWoolOPEN = "Veste d'hiver (ouverte)",
 	ItemName_Spongie.Jacket_Flight = "Veste d'aviateur",
 	ItemName_Spongie.Jacket_FlightOPEN = "Veste d'aviateur (ouverte)",
 	ItemName_Spongie.Jacket_FlightVest = "Gilet d'aviateur",
@@ -30,5 +30,16 @@ ItemName_FR = {
 	ItemName_Spongie.Gloves_StripedLong = "Manches de bras",
 	ItemName_Spongie.Gloves_LeatherFingerless = "Gants en cuir sans doigts",
 	ItemName_Spongie.Gloves_MilitaryFingerless = "Gants tactiques sans doigts",
+
+	ItemName_Spongie.Jacket_PeaCoat = "Caban",
+	ItemName_Spongie.Jacket_PeaCoatOPEN = "Caban (ouvert)",
+	ItemName_Spongie.Jacket_Quilted = "Veste matelassée",
+	ItemName_Spongie.Jacket_QuiltedOPEN = "Veste matelassée (ouverte)",
+	ItemName_Spongie.Shirt_Quilted = "Chemise matelassée",
+	ItemName_Spongie.Shirt_QuiltedOPEN = "Chemise matelassée (ouverte)",
+	ItemName_Spongie.Shirt_QuiltedOPENROLL = "Chemise matelassée",
+	ItemName_Spongie.Shirt_QuiltedROLL = "Chemise matelassée",
+	ItemName_Spongie.Vest_Puffy = "Doudoune légère",
+	ItemName_Spongie.Vest_PuffyOPEN = "Doudoune légère (ouverte)",
 
 }
